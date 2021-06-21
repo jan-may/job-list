@@ -59,8 +59,8 @@ header {
   height: 20vh;
   width: 100%;
   margin-bottom: 75px;
-  background: url("C:\Users\jan_m\Documents\Code\webdev\frontend_mentor\job-list\src\images\bg-header-desktop.svg")
-    no-repeat var(--desaturated-dark-cyan);
+  background: url("./images/bg-header-desktop.svg") no-repeat
+    var(--desaturated-dark-cyan);    no-repeat var(--desaturated-dark-cyan);
   background-size: cover;
 }
 
