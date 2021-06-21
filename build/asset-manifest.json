@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d867a06.chunk.css",
-    "main.js": "/static/js/main.bf1fb3cd.chunk.js",
-    "main.js.map": "/static/js/main.bf1fb3cd.chunk.js.map",
+    "main.css": "/static/css/main.78772c7c.chunk.css",
+    "main.js": "/static/js/main.73a3bd5e.chunk.js",
+    "main.js.map": "/static/js/main.73a3bd5e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e65576b2.js",
     "runtime-main.js.map": "/static/js/runtime-main.e65576b2.js.map",
     "static/js/2.16c30f5b.chunk.js": "/static/js/2.16c30f5b.chunk.js",
     "static/js/2.16c30f5b.chunk.js.map": "/static/js/2.16c30f5b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9d867a06.chunk.css.map": "/static/css/main.9d867a06.chunk.css.map",
+    "static/css/main.78772c7c.chunk.css.map": "/static/css/main.78772c7c.chunk.css.map",
     "static/js/2.16c30f5b.chunk.js.LICENSE.txt": "/static/js/2.16c30f5b.chunk.js.LICENSE.txt",
     "static/media/account.903d6cd0.svg": "/static/media/account.903d6cd0.svg",
-    "static/media/index.css": "/static/media/bg-header-desktop.8694f466.svg",
+    "static/media/index.css": "/static/media/bg-header-mobile.9cb13612.svg",
     "static/media/eyecam-co.0abb14e8.svg": "/static/media/eyecam-co.0abb14e8.svg",
     "static/media/faceit.54a148ce.svg": "/static/media/faceit.54a148ce.svg",
     "static/media/insure.4d535e7e.svg": "/static/media/insure.4d535e7e.svg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.e65576b2.js",
     "static/js/2.16c30f5b.chunk.js",
-    "static/css/main.9d867a06.chunk.css",
-    "static/js/main.bf1fb3cd.chunk.js"
+    "static/css/main.78772c7c.chunk.css",
+    "static/js/main.73a3bd5e.chunk.js"
   ]
 }
