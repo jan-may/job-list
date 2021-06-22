@@ -7,6 +7,10 @@
 
 In the project directory, you can run:
 
+### `npm install`
+
+installs the required node modules.
+
 ### `npm start`
 
 Runs the app in the development mode.\
